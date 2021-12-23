@@ -48,13 +48,22 @@ Others: Autocad/Figma/balsamiq/Tableau/PowerBI
 ## 📫 Contact INFO
 -  How to reach me:
 
-    * [**Drop a Mail**](mailto:irisding20020213@outlook.com)
+    * [**Drop a Mail**](mailto:irisding20020213@outlook.com) 📧
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
 
     * [**Follow my Instagram**](https://www.instagram.com/iris_oovo/)
 
-    
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
+
+## 💡 GOALS FOR 2022
+- Being proficient in python and java
+- learning new programming languages and skills like C++
+- finishing reading 20+ books
+- finding a boyfriend :(
+- trying to get a job
+- stay hungry stay foolish!
+
+<h4 align="center">From <a href="https://github.com/IrisDin/IrisDin"> Iris Ding's Github Profile Readme MD</a></h4>
