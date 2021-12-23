@@ -60,7 +60,7 @@ Others: Autocad/Figma/balsamiq/Tableau/PowerBI
 
 ## 💡 GOALS FOR 2022
 - Being proficient in python and java
-- learning new programming languages and skills like C++
+- learning new programming languages and skills like C/C++
 - finishing reading 20+ books
 - finding a boyfriend :(
 - trying to get a job
