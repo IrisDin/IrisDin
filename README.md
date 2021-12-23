@@ -1,7 +1,8 @@
-# Hello there 你好 👋
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
+# Welcome To My GitHub Profile !
 
 ```python
 #!/usr/bin/python
@@ -35,12 +36,21 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Javat&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
 
-## 📫 How to reach me:
+
+
+
+## 📫 Contact INFO
+-  How to reach me:
 
     * [**Drop a Mail**](mailto:irisding20020213@outlook.com)
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
+
+    * [**Follow my Instagram**](https://www.instagram.com/iris_oovo/)
 
     
 <div align="center">
