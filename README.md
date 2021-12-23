@@ -31,17 +31,29 @@ me.say_hi()
 - Personal website and blog: https://irisdin.github.io/
 
 
-## 🔧 Technologies & Tools
+## 🛠 Technologies & Tools
 
-Code related:
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+💻：
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Javat&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
 
-Others: Autocad/Figma/balsamiq/Tableau/PowerBI
+
+🌐：
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+
+
+🔧：
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=6aa6f8)
+
+🖥：
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-Autocad-informational?style=flat&logo=Autocad&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tool-balsamiq-informational?style=flat&logo=balsamiq&logoColor=white&color=6aa6f8)
 
 
 
