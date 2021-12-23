@@ -2,8 +2,8 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23020608&size=19&center=true&lines=Welcome+To+Iris's+GitHub+Profile+!)](https://git.io/typing-svg)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
