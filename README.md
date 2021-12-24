@@ -60,9 +60,9 @@ me.say_hi()
 
 
 ## 📫 Contact INFO
--  How to reach me:
+-  How to reach me
 
-    * [**Drop a Mail**](mailto:irisding20020213@outlook.com) 📧
+    * [**Drop a Mail**](mailto:irisding20020213@outlook.com)
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
 
