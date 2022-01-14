@@ -81,3 +81,6 @@ me.say_hi()
 - stay hungry stay foolish!
 
 <h4 align="center">From <a href="https://github.com/IrisDin/IrisDin"> Iris Ding's Github Profile Readme MD</a></h4>
+
+
+![data_visulization](https://s2.loli.net/2022/01/14/sOEZd1KqLo2t3ci.jpg)
