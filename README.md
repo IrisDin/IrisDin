@@ -42,7 +42,6 @@ me.say_hi()
 
 
 🌐：
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
 
 
