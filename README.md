@@ -1,9 +1,10 @@
  <div  align="center">   
- <img src="https://s2.loli.net/2022/01/30/GRv6nV8Ft3W5uzX.jpg" width = "280" height = "290" alt="图片名称" align=center />   
+ <img src="https://s2.loli.net/2022/01/30/GRv6nV8Ft3W5uzX.jpg" width = "280" height = "290" alt="Iris's image" align=center />   
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=doublespace&color=%23000000&size=22&center=true&lines=Welcome+to+Iris%E2%80%98s+profile+%EF%BC%9A%EF%BC%89)](https://git.io/typing-svg)
+
 
 ```python
 #!/usr/bin/python
@@ -29,7 +30,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://irisdin.github.io/
+- My blog: https://irisdin.github.io/
 
 
 ## 🛠 Technologies & Tools
