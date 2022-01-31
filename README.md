@@ -28,9 +28,8 @@ me = Uofwashstudent()
 me.say_hi()
 ```
 
-## 📝 Blogs
-
-- My blog: https://irisdin.github.io/
+## 📝 Blog
+-    [Iris‘s Blog](https://irisdin.github.io/)
 
 
 ## 🛠 Technologies & Tools
@@ -59,11 +58,11 @@ me.say_hi()
 
 
 ## 📫 Contact INFO
--  How to reach me
+-  How to reach me😊
 
     * [**Drop a Mail**](mailto:irisding20020213@outlook.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
+    * [**Connect with via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
 
     * [**Follow my Instagram**](https://www.instagram.com/iris_oovo/)
 
