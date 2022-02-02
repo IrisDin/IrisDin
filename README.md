@@ -28,8 +28,9 @@ me = Uofwashstudent()
 me.say_hi()
 ```
 
-## 📝 Blog
+## 📝 Blog/Website
 -    [Iris‘s Blog](https://irisdin.github.io/)
+-    [Iris‘s Programming Note](https://yunyi-ding.gitbook.io/iris-programming-note/)
 
 
 ## 🛠 Technologies & Tools
