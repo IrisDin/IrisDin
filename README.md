@@ -31,6 +31,7 @@ me.say_hi()
 ## 📝 Blog/Website
 -    [Iris‘s Blog](https://irisdin.github.io/)
 -    [Iris‘s Programming Note](https://yunyi-ding.gitbook.io/iris-programming-note/)
+-    [My book list](https://spotless-hat-579.notion.site/My-Book-List-9ce9f74567904dbf932c64e07c1888d0)
 
 
 ## 🛠 Technologies & Tools
