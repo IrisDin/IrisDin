@@ -76,7 +76,7 @@ me.say_hi()
 - Being proficient in python and java
 - learning new programming languages and skills like C/C++
 - finishing reading 20+ books
-- finding a boyfriend :(
+- ~~finding a boyfriend~~
 - trying to get a job
 - stay hungry stay foolish!
 
