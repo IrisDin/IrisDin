@@ -28,11 +28,6 @@ me = Uofwashstudent()
 me.say_hi()
 ```
 
-## 📝 Blog/Website
--    [Iris‘s Blog](https://irisdin.github.io/)
--    [Iris‘s Programming Note](https://yunyi-ding.gitbook.io/iris-programming-note/)
--    [My book list](https://spotless-hat-579.notion.site/My-Book-List-9ce9f74567904dbf932c64e07c1888d0)
-
 
 ## 🛠 Technologies & Tools
 
@@ -71,14 +66,6 @@ me.say_hi()
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
-
-## 💡 GOALS FOR 2022
-- Being proficient in python and java
-- learning new programming languages and skills like C/C++
-- finishing reading 20+ books
-- ~~finding a boyfriend~~
-- trying to get a job
-- stay hungry stay foolish!
 
 <h4 align="center">From <a href="https://github.com/IrisDin/IrisDin"> Iris Ding's Github Profile Readme MD</a></h4>
 
