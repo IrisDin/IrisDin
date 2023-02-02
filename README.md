@@ -61,8 +61,6 @@ me.say_hi()
 
     * [**Connect with via LinkedIn**](https://www.linkedin.com/in/yunyi-iris-ding-a82976189/)
 
-    * [**Follow my Instagram**](https://www.instagram.com/iris_oovo/)
-
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
 </div>
